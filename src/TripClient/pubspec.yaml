@@ -1,0 +1,8 @@
+name: TripClient
+description: A sample WebUI application
+dependencies:
+  browser: any
+  google_oauth2_client: any
+  intl: any
+  js: any
+  web_ui: any

@@ -1,0 +1,13 @@
+build
+dist
+Trip.egg-info
+*.pyc
+*.sw*
+*.js
+*.js.map
+*.dart.map
+*.js.deps
+packages/
+pubspec.lock
+.project
+.buildlog
